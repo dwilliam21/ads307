@@ -1,0 +1,15 @@
+Infomações
+
+Sistema do SIMPAC que permite cadastrar os professor
+
+campos: usuário, email e senha
+
+--------------------------------------------------
+Sistema do SIMPAC que permite cadastrar os aluno
+
+campos: nome completo, matrícula, email e senha
+--------------------------------------------------
+Os alunos podem cadastrar os projetos que vão ser avaliados
+
+campos: Título, descrição, anexar arquivos.
+
